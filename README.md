@@ -1,5 +1,8 @@
 # MI_Vehicles
-Garages, locks, and other fun stuff
+### Work in progress:
+- feature here_
 
-## Work in progress:
-- task
+### Docs:
+- [CFX Docs](https://docs.fivem.net/docs/)
+- [OverExtended](https://overextended.github.io/docs)
+- [Project Error](https://projecterror.dev/docs/)
